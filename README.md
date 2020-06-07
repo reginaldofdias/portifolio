@@ -1,2 +1,2 @@
 # data_science_na_pratica
-Meu portifólio projetos de Data Science
+Meu portifólio de projetos de Data Science
