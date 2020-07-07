@@ -17,5 +17,5 @@ Sou graduado pela Universidade Estadual de Maringá (UEM) Bacharel em Informáti
 
 ## Projetos:
 
-* **Análise dos dados do AirBnb em Madri:** 
+* **Análise dos dados do AirBnb em Madri:** https://bit.ly/2Z7LrjU
 ---
